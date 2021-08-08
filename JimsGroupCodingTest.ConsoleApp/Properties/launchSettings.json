@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JimsGroupCodingTest.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "Multiplication Hardcoded"
+    }
+  }
+}
