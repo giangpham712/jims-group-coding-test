@@ -1,10 +1,12 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
-
 * Giang's work for Jim's Group Interview Coding Test
+
+## Dependencies
+* .NET Core 3.1
+* AWS Toolkit and AWS account are needed to deploy Web API project to AWS Lambda
+
 
 ### Solution structure ###
 
